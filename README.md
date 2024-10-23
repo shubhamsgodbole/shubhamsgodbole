@@ -1,8 +1,8 @@
-👋 Hi, I’m Shubham Godbole!
+Hi, I’m Shubham Godbole!
 
-🌱 I’m currently learning about video to text summarization LLMs.
+I’m currently learning about video to text summarization LLMs.
 
-📫 You can reach out to me at shubhamsgodbole@gmail.com.
+You can reach out to me at shubhamsgodbole@gmail.com.
 <!---
 shubhamsgodbole/shubhamsgodbole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
