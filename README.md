@@ -1,6 +1,6 @@
 Hi, I’m Shubham Godbole!
 
-I’m currently learning about video to text summarization LLMs.
+I’m currently learning about Data Science.
 
 You can reach out to me at shubhamsgodbole@gmail.com.
 <!---
