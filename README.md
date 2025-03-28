@@ -1,6 +1,6 @@
 Hi, I’m Shubham Godbole!
 
-I’m currently learning about Data Science.
+I’m currently learning Python.
 
 You can reach out to me at shubhamsgodbole@gmail.com.
 <!---
