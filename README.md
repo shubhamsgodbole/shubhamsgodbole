@@ -1,6 +1,6 @@
 Hi, I’m Shubham Godbole!
 
-I’m currently learning Python.
+I’m currently learning building something new in the FinTech domain. Stay Tuned!
 
 You can reach out to me at shubhamsgodbole@gmail.com.
 <!---
